@@ -1,0 +1,20 @@
+{
+  "database": "Zotero",
+  "noteImportFolder": "00-Inbox/ZoteroInputs",
+  "pdfExportImageDPI": 120,
+  "pdfExportImageFormat": "jpg",
+  "pdfExportImageQuality": 90,
+  "citeFormats": [],
+  "exportFormats": [
+    {
+      "name": "v1",
+      "outputPathTemplate": "00-Inbox/ZoteroInputs/{{title}}.md",
+      "imageOutputPathTemplate": "{{citekey}}/",
+      "imageBaseNameTemplate": "image",
+      "templatePath": "01-Templates/Template - Zotero_Integration.md"
+    }
+  ],
+  "citeSuggestTemplate": "[[{{citekey}}]]",
+  "openNoteAfterImport": true,
+  "whichNotesToOpenAfterImport": "first-imported-note"
+}

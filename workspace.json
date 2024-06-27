@@ -1,0 +1,253 @@
+{
+  "main": {
+    "id": "9509e05ab030e256",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8c4b037eed31cb6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00bad64ef1960daa",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "387c6284937ed7b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "98ac13ce3d532d52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a91dcc1f61707f3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "20c3d2de60496201",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e3facc6de9b3bec7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "c5780ab129cff8a7",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 661.5110359191895
+  },
+  "right": {
+    "id": "1359ae984e6b8b61",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e02e4f5197e5210",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b607051841c9cda0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f108eb346235876c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7746e6f9da205399",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "89c35b90a22d3619",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "7c063ffc9cf06e19",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "c95c71e6d863e65b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "8f0498c65045cacb",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          },
+          {
+            "id": "6f503708d385772f",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
+          },
+          {
+            "id": "6313c69264f80c4d",
+            "type": "leaf",
+            "state": {
+              "type": "Strange New Worlds",
+              "state": {}
+            }
+          },
+          {
+            "id": "d7180f3f5fa29f42",
+            "type": "leaf",
+            "state": {
+              "type": "QUICKSHARE_SIDE_VIEW",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 578.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-importer:Open Importer": false,
+      "markdown-importer:Open format converter": false,
+      "callout-manager:Insert Callout": false,
+      "obsidian-day-planner:Timeline": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "janitor:Janitor: scan vault": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+    }
+  },
+  "active": "8a91dcc1f61707f3",
+  "lastOpenFiles": [
+    "Encounters (most work here)/Annotations",
+    "Spaces (MOC)/PhD/Literature Review/Untitled.md",
+    "Spaces/PhD/Projects",
+    "Spaces/PhD/Seedlings (summary of permanent notes)",
+    "Incubation (park for future)/Untitled",
+    "Encounters/Workshops/Untitled",
+    "Encounters (most work here)/Definitions",
+    "Incubation (park for future)",
+    "+My Home/Untitled",
+    "+My Home/Task List",
+    "Encounters (most work here)/Meetings/Other",
+    "Encounters (most work here)/Meetings/BHP",
+    "+My Home/Untitled.md",
+    "Encounters/Fleeting Notes/Fleeting Notes.md",
+    "Untitled.md",
+    "Pasted image 20240627094740.png",
+    "Pasted image 20240627094701.png",
+    "Spaces/Literature Review/0201-Knowledge_Repository/0201-MLTaskTracker.md",
+    "Encounters/Sources/Readwise/Books/Untitled.md",
+    "Templates/Template - Zotero_Integration.md",
+    "Templates/Template-KanbanCard.md",
+    "2024-06-26.md",
+    "textgenerator/templates/default/getParagraph.md",
+    "textgenerator/templates/default/getIdeas.md",
+    "textgenerator/templates/default/getEmailNeg.md",
+    "textgenerator/templates/awesomePrompts/aiassisteddoctorAwesome.md",
+    "textgenerator/templates/awesomePrompts/advertiserAwesome.md",
+    "textgenerator/templates/awesomePrompts/accountantAwesome.md",
+    "textgenerator/templates/awesomePrompts/academicianAwesome.md",
+    "textgenerator/templates/awesomePrompts/yogiAwesome.md",
+    "textgenerator/templates/awesomePrompts/wikipediapageAwesome.md",
+    "textgenerator/templates/awesomePrompts/webdesignconsultantAwesome.md",
+    "textgenerator/templates/awesomePrompts/virtualdoctorAwesome.md",
+    "textgenerator/templates/awesomePrompts/webbrowserAwesome.md",
+    "textgenerator/templates/awesomePrompts/uxuideveloperAwesome.md",
+    "textgenerator/templates/awesomePrompts/unconstrainedaimodeldanAwesome.md",
+    "textgenerator/templates/awesomePrompts/travelguideAwesome.md",
+    "textgenerator/templates/awesomePrompts/titlegeneratorforwrittenpiecesAwesome.md"
+  ]
+}

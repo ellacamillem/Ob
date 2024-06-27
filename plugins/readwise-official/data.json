@@ -1,0 +1,14 @@
+{
+  "token": "4Q2VWMx43NNlegE2ZRtbngV9zfCzR1rd94CvS1yVvJ5JixdmXN",
+  "readwiseDir": "Knowledge Library (sources - never touch)/Readwise",
+  "frequency": "60",
+  "triggerOnLoad": true,
+  "isSyncing": false,
+  "lastSyncFailed": false,
+  "lastSavedStatusID": 14975532,
+  "currentSyncStatusID": 0,
+  "refreshBooks": false,
+  "booksToRefresh": [],
+  "booksIDsMap": {},
+  "reimportShowConfirmation": true
+}

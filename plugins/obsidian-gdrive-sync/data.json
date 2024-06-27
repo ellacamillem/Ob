@@ -1,0 +1,15 @@
+{
+  "refreshToken": "1//05k9FW3TAx9u6CgYIARAAGAUSNwF-L9IrISo5QTMb-LkGZ5PCUFGQlhU2QBIogv03tEHHBnkW4G70NErmiIzBVZI7G1fvz7Z9JhQ",
+  "accessToken": "ya29.a0AXooCgtoeHjLxxo1D4Btawq3yytfIYAfd3_-BxUZtor8FN5Ac9yXIQ581ix_XvqlkmF7ndJsgoy15HliQpyQ_qjQAYnQ2O4pv7ttpiVKPC2fuEX7l5Onim50Y5ifLdrp6dmRGKv2ENOzrGHsZS-64iocgdDUJnfj_YnDaCgYKAYMSARISFQHGX2Mic_oZgCghH9gwyYW-BMqejw0171",
+  "accessTokenExpiryTime": "",
+  "validToken": true,
+  "vaultId": "",
+  "filesList": [],
+  "vaultInit": false,
+  "rootFolderId": "",
+  "refresh": false,
+  "refreshTime": "5",
+  "autoRefreshBinaryFiles": "0",
+  "errorLoggingToFile": false,
+  "verboseLoggingToFile": false
+}
