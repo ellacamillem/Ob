@@ -16,7 +16,6 @@
   "obsidian-mind-map",
   "obsidian-extract-pdf-highlights",
   "obsidian-outliner",
-  "obsidian-git",
   "janitor",
   "recent-files-obsidian",
   "graph-analysis",
@@ -33,5 +32,6 @@
   "obsidian-gdrive-sync",
   "obsidian-quickshare",
   "readwise-official",
-  "open-with"
+  "open-with",
+  "obsidian-git"
 ]
